@@ -1,0 +1,7 @@
+C:\Users\Mahesh Gangineni\source\repos\MetaApp\MetaApp\bin\Debug\MetaApp.exe.config
+C:\Users\Mahesh Gangineni\source\repos\MetaApp\MetaApp\bin\Debug\MetaApp.exe
+C:\Users\Mahesh Gangineni\source\repos\MetaApp\MetaApp\bin\Debug\MetaApp.pdb
+C:\Users\Mahesh Gangineni\source\repos\MetaApp\MetaApp\obj\Debug\MetaApp.csprojAssemblyReference.cache
+C:\Users\Mahesh Gangineni\source\repos\MetaApp\MetaApp\obj\Debug\MetaApp.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh Gangineni\source\repos\MetaApp\MetaApp\obj\Debug\MetaApp.exe
+C:\Users\Mahesh Gangineni\source\repos\MetaApp\MetaApp\obj\Debug\MetaApp.pdb
